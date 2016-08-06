@@ -11,7 +11,6 @@ import com.google.zxing.common.BitMatrix;
 import com.google.zxing.qrcode.decoder.ErrorCorrectionLevel;
 
 public class CreateQRCode {
-
 	@SuppressWarnings({ "unchecked", "rawtypes" })
 	public static void main(String[] args) {
 		int width = 300 ;
