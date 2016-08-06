@@ -16,7 +16,7 @@ public class CreateQRCode {
 		int width = 300 ;
 		int height = 300 ;
 		String format = "png";
-		String content = "this is Evergreen from UESTC!熊枭雄学习嘻嘻嘻嘻嘻嘻";
+		String content = "姓名:Evergreen 电子科技大学计算机在读硕士  qq:781804951  微博: IamEvergreen  LOL:班德尔城  宇宙第一寒冰";
 		//定义二维码参数
 		HashMap hints = new HashMap();
 		hints.put(EncodeHintType.CHARACTER_SET, "utf-8");
